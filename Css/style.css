@@ -1,0 +1,76 @@
+*{
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+/* .child{
+    width: 500px;
+    height: 500px;
+}
+.child-1{
+    background: lightgreen;
+    z-index: 1;
+    transition: 800ms;
+}
+.child-1:hover{
+    background: gray;
+}
+.child-2{
+    background: violet;
+}
+.child-3{
+    background: skyblue;
+}
+.child-4{
+    background: lightcoral;
+    z-index: 2;
+}
+.child-5{
+    background: lawngreen;
+    position: absolute;
+} */
+
+
+
+/* nav{
+    background: burlywood;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul ali{
+    display: inline-block;
+}
+nav ul ali a{
+    color: aqua;
+    padding: 20px;
+    font-size: 20px;  
+    text-decoration: none; 
+    font-family: sans-serif;
+    text-transform: uppercase;
+    display: inline-block;
+    transition: .6s;
+/* } */
+nav ul li a:hover, nav ul li a.active{
+    background: lawngreen;
+}
+nav{
+    background-color:blueviolet;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+}
+a{
+    color:skyblue;
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    display: inline-block;
+}
